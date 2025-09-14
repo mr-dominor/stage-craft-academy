@@ -17,12 +17,12 @@ const Boast = () =>{
             </div>
             <div className="relative h-[500px] w-full md:w-4/6 overflow-hidden hover:scale-[1.05] transition-all ease-in-out">
                 <Image
-                src={`/mine/sca3.png `}
+                src={`/mine/sca3.png`}
                 alt="Image"
                 fill
                 className="object-bottom-left object-cover"
                 />
-                <p className={`absolute bottom-1/4 left-12 text-6xl text-white ${forum.className}`}>Stage Craft Academy</p>
+                <p className={`absolute bottom-1/4 left-12 text-6xl text-white ${forum.className}`}>Stage Craft Artist</p>
                 <p className={`absolute bottom-[19%] left-12 text-white ${poppins.className}`}>Bringing stories to life since 1965</p>
             </div>
         </div>
